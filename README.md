@@ -4,7 +4,7 @@ This repository contains a simple script that checks whether a number is even or
 
 ## Code in This Repo  
 ```python
-number = int(input("Enter your number below: "))  
+number = int(input("Enter a number below: "))  
 
 if number % 2 == 0:  
     print(f"{number} is even.")  
