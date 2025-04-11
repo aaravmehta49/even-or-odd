@@ -1,6 +1,6 @@
 # Even or Odd Checker 🔢  
 
-This repository has a simple script that checks whether a number is even or odd.  
+This repository coontains a simple script that checks whether a number is even or odd.  
 
 ## Code in This Repo  
 ```python
